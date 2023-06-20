@@ -1,0 +1,27 @@
+/******* Customized Bootstrap ********/
+
+$primary: #cc5801;
+$light: #f6f7f8;
+$dark: #1a2a36;
+
+$font-family-base: "Cormorant Infant", serif;
+
+$headings-font-family: "Cormorant Infant", serif;
+
+$body-color: #9b9b9b;
+
+$headings-color: $dark;
+
+$headings-font-weight: 700;
+
+$display-font-weight: 900;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 8px;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+@import "bootstrap/scss/bootstrap";
